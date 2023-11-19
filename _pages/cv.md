@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object width="900" height="900" data="https://docs.google.com/gview?embedded=true&url={{ site.baseurl }}/files/CV_Shawn.pdf"></object>
+<object width="900" height="900" data="https://docs.google.com/gview?embedded=true&url={{ site.url }}/files/CV_Shawn.pdf"></object>
