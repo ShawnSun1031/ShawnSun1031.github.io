@@ -9,8 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="{{ site.baseurl }}/files/CV_Shawn.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="{{ site.baseurl }}/files/CV_Shawn.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/files/CV_Shawn.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="{{ site.baseurl }}/files/CV_Shawn.pdf" width="100%" height="600px"></iframe>
