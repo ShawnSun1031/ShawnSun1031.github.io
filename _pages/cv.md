@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="{{ site.baseurl }}/files/CV_Shawn.pdf" width="100%" height="600px"></iframe>
+<iframe src="{{ site.baseurl }}/files/CV_Shawn.pdf" title='CV_Shawn' />
