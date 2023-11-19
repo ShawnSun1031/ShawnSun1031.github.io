@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="{{ site.baseurl }}/files/CV_Shawn.pdf" title='CV_Shawn' />
+<object width="900" height="900" data="https://docs.google.com/gview?embedded=true&url={{ site.baseurl }}/files/CV_Shawn.pdff"></object>
