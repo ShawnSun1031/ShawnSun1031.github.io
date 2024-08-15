@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Chin-Hsuan (Shawn) Sun, as a Data Scientist at TSMC, I bring a unique blend of skills as a Full Stack Engineer and Infrastructure Engineer, specializing in DevOps and Site Reliability Engineering (SRE). My expertise lies in building robust, scalable systems that drive data-driven decisions and optimize operations. With a passion for continuous learning and innovation, I thrive on solving complex challenges at the intersection of data science and engineering, contributing to cutting-edge advancements in the semiconductor industry..
+Hello, I am Chin-Hsuan (Shawn) Sun, as a Data Scientist at TSMC, I bring a unique blend of skills as a Full Stack Engineer and Infrastructure Engineer, specializing in DevOps and Site Reliability Engineering (SRE). My expertise lies in building robust, scalable systems that drive data-driven decisions and optimize operations. With a passion for continuous learning and innovation, I thrive on solving complex challenges at the intersection of data science and engineering, contributing to cutting-edge advancements in the semiconductor industry.
 
 Was a summer intern in AI algorithm development at Airoha Technology, I focused on enhancing the accuracy of GNSS and dead reckoning for electric scooters. Traditional navigation systems using GNSS faced challenges due to signal obstruction from tall buildings. To address this, I explored the feasibility of integrating machine learning techniques, including LSTM and decision trees, to improve navigation reliability under these conditions.
 
